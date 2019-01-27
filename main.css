@@ -1,0 +1,26 @@
+body,
+html {
+  height: 100%;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img/hackathon_photo.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  vertical-align: 50%;
+}
